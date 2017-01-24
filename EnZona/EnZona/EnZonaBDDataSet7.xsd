@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="EnZonaBDDataSet7" targetNamespace="http://tempuri.org/EnZonaBDDataSet7.xsd" xmlns:mstns="http://tempuri.org/EnZonaBDDataSet7.xsd" xmlns="http://tempuri.org/EnZonaBDDataSet7.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="EnZonaBDConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="EnZonaBDConnectionString (Settings)" PropertyReference="ApplicationSettings.EnZona.Properties.Settings.GlobalReference.Default.EnZonaBDConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="CountTableAdapter" GeneratorDataComponentClassName="CountTableAdapter" Name="Count" UserDataComponentName="CountTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="EnZonaBDConnectionString (Settings)" DbObjectName="[Count]" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT cantidad FROM [Count]</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="cantidad" DataSetColumn="cantidad" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="MPHTableAdapter" GeneratorDataComponentClassName="MPHTableAdapter" Name="MPH" UserDataComponentName="MPHTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="EnZonaBDConnectionString (Settings)" DbObjectName="MPH" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT mph FROM MPH</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="mph" DataSetColumn="mph" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="EnZonaBDDataSet7" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="EnZonaBDDataSet7" msprop:Generator_UserDSName="EnZonaBDDataSet7">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Count" msprop:Generator_TableClassName="CountDataTable" msprop:Generator_TableVarName="tableCount" msprop:Generator_TablePropName="Count" msprop:Generator_RowDeletingName="CountRowDeleting" msprop:Generator_RowChangingName="CountRowChanging" msprop:Generator_RowEvHandlerName="CountRowChangeEventHandler" msprop:Generator_RowDeletedName="CountRowDeleted" msprop:Generator_UserTableName="Count" msprop:Generator_RowChangedName="CountRowChanged" msprop:Generator_RowEvArgName="CountRowChangeEvent" msprop:Generator_RowClassName="CountRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="cantidad" msprop:Generator_ColumnVarNameInTable="columncantidad" msprop:Generator_ColumnPropNameInRow="cantidad" msprop:Generator_ColumnPropNameInTable="cantidadColumn" msprop:Generator_UserColumnName="cantidad" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="MPH" msprop:Generator_TableClassName="MPHDataTable" msprop:Generator_TableVarName="tableMPH" msprop:Generator_TablePropName="MPH" msprop:Generator_RowDeletingName="MPHRowDeleting" msprop:Generator_RowChangingName="MPHRowChanging" msprop:Generator_RowEvHandlerName="MPHRowChangeEventHandler" msprop:Generator_RowDeletedName="MPHRowDeleted" msprop:Generator_UserTableName="MPH" msprop:Generator_RowChangedName="MPHRowChanged" msprop:Generator_RowEvArgName="MPHRowChangeEvent" msprop:Generator_RowClassName="MPHRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="mph" msprop:Generator_ColumnVarNameInTable="columnmph" msprop:Generator_ColumnPropNameInRow="mph" msprop:Generator_ColumnPropNameInTable="mphColumn" msprop:Generator_UserColumnName="mph" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

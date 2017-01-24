@@ -1,0 +1,37 @@
+D:\Estudio\proyecto\EnZona\EnZona\bin\Debug\EnZona.exe.config
+D:\Estudio\proyecto\EnZona\EnZona\obj\Debug\EnZona.exe
+D:\Estudio\proyecto\EnZona\EnZona\obj\Debug\EnZona.pdb
+D:\Estudio\proyecto\EnZona\EnZona\bin\Debug\EnZonaBD.accdb
+D:\Estudio\proyecto\EnZona\EnZona\bin\Debug\EnZona.exe
+D:\Estudio\proyecto\EnZona\EnZona\bin\Debug\EnZona.pdb
+D:\Estudio\proyecto\EnZona\EnZona\obj\Debug\EnZona.csprojResolveAssemblyReference.cache
+D:\Estudio\proyecto\EnZona\EnZona\obj\Debug\EnZona.Form1.resources
+D:\Estudio\proyecto\EnZona\EnZona\obj\Debug\EnZona.Juego.resources
+D:\Estudio\proyecto\EnZona\EnZona\obj\Debug\EnZona.Properties.Resources.resources
+D:\Estudio\proyecto\EnZona\EnZona\obj\Debug\EnZona.csproj.GenerateResource.Cache
+D:\Estudio\proyecto\EnZona\EnZona\obj\Debug\EnZona.exe.licenses
+C:\Users\NASHKJ\Documents\Visual Studio 2012\Projects\EnZona\EnZona\bin\Debug\EnZonaBD.accdb
+C:\Users\NASHKJ\Documents\Visual Studio 2012\Projects\EnZona\EnZona\bin\Debug\EnZona.exe.config
+C:\Users\NASHKJ\Documents\Visual Studio 2012\Projects\EnZona\EnZona\bin\Debug\EnZona.exe
+C:\Users\NASHKJ\Documents\Visual Studio 2012\Projects\EnZona\EnZona\bin\Debug\EnZona.pdb
+C:\Users\NASHKJ\Documents\Visual Studio 2012\Projects\EnZona\EnZona\obj\Debug\EnZona.AnadirJugador.resources
+C:\Users\NASHKJ\Documents\Visual Studio 2012\Projects\EnZona\EnZona\obj\Debug\EnZona.EditarJugador.resources
+C:\Users\NASHKJ\Documents\Visual Studio 2012\Projects\EnZona\EnZona\obj\Debug\EnZona.EliminarJugador.resources
+C:\Users\NASHKJ\Documents\Visual Studio 2012\Projects\EnZona\EnZona\obj\Debug\EnZona.Form1.resources
+C:\Users\NASHKJ\Documents\Visual Studio 2012\Projects\EnZona\EnZona\obj\Debug\EnZona.FormReporte.resources
+C:\Users\NASHKJ\Documents\Visual Studio 2012\Projects\EnZona\EnZona\obj\Debug\EnZona.Juego.resources
+C:\Users\NASHKJ\Documents\Visual Studio 2012\Projects\EnZona\EnZona\obj\Debug\EnZona.Properties.Resources.resources
+C:\Users\NASHKJ\Documents\Visual Studio 2012\Projects\EnZona\EnZona\obj\Debug\EnZona.Report.resources
+C:\Users\NASHKJ\Documents\Visual Studio 2012\Projects\EnZona\EnZona\obj\Debug\EnZona.csproj.GenerateResource.Cache
+C:\Users\NASHKJ\Documents\Visual Studio 2012\Projects\EnZona\EnZona\obj\Debug\EnZona.exe.licenses
+C:\Users\NASHKJ\Documents\Visual Studio 2012\Projects\EnZona\EnZona\obj\Debug\EnZona.exe
+C:\Users\NASHKJ\Documents\Visual Studio 2012\Projects\EnZona\EnZona\obj\Debug\EnZona.pdb
+C:\Users\NASHKJ\Documents\Visual Studio 2012\Projects\EnZona\EnZona\obj\Debug\EnZona.csprojResolveAssemblyReference.cache
+D:\Estudio\proyecto\EnZona\EnZona\obj\Debug\EnZona.AnadirJugador.resources
+D:\Estudio\proyecto\EnZona\EnZona\obj\Debug\EnZona.EditarJugador.resources
+D:\Estudio\proyecto\EnZona\EnZona\obj\Debug\EnZona.EliminarJugador.resources
+D:\Estudio\proyecto\EnZona\EnZona\obj\Debug\EnZona.FormReporte.resources
+D:\Estudio\proyecto\EnZona\EnZona\obj\Debug\EnZona.Report.resources
+F:\Proyect\EnZona\EnZona\bin\Debug\EnZona.exe.config
+F:\Proyect\EnZona\EnZona\obj\Debug\EnZona.exe
+F:\Proyect\EnZona\EnZona\obj\Debug\EnZona.pdb
